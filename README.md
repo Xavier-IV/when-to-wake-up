@@ -1,6 +1,10 @@
-# WhenToWakeUp
+# When To Wake Up
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+
+
+![Image of Yaktocat](https://i.ibb.co/c8mdJWV/When-To-Wake-Up.png)
+
 
 ## Development server
 
