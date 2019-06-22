@@ -1,0 +1,3 @@
+<form [formGroup]="whenToWakeForm" (submit)="calculateTimeToSleep(whenToWakeForm.value)">
+  <input class="input is-large has-text-centered" formControlName="timeToWake" (focus)="clearInput()" type="text">
+</form>
